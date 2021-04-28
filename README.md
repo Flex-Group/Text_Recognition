@@ -17,10 +17,10 @@ $ python setup.py install
 
 $ alpr .\samples\au-1.JPG
 
-plate0: 10 results\
-- BX41P2     confidence: 87.8295\
-- BX412      confidence: 84.8967\
-- BX41PZ     confidence: 83.8802\
+plate0: 10 results
+- BX41P2     confidence: 87.8295
+- BX412      confidence: 84.8967
+- BX41PZ     confidence: 83.8802
 - BX4DP2     confidence: 83.4717
 - BX4P2      confidence: 82.9226
 - BX4IP2     confidence: 81.994

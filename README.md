@@ -16,3 +16,15 @@ $ python setup.py install
 -After the installation, for application navigate to the directory, C:\Users\user\Downloads\OpenAlpr\openalpr_64 . Then run the following command,
 
 $ alpr .\samples\au-1.JPG
+
+plate0: 10 results
+    - BX41P2     confidence: 87.8295
+    - BX412      confidence: 84.8967
+    - BX41PZ     confidence: 83.8802
+    - BX4DP2     confidence: 83.4717
+    - BX4P2      confidence: 82.9226
+    - BX4IP2     confidence: 81.994
+    - BX4OP2     confidence: 81.0967
+    - BX41Z      confidence: 80.9474
+    - BX4QP2     confidence: 80.7907
+    - BX40P2     confidence: 80.6151

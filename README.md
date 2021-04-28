@@ -3,11 +3,11 @@ Text recognition with OCR (Optical Character Recognition). Using OpenALPR, an op
 
 ### Installation and Application of OpenALPR:
 
--Download the repo from, https://github.com/Flex-Group/Text_Recognition.\
+-Download the repo from, https://github.com/Flex-Group/Text_Recognition.
 
--Make a directory named OpenAlpr and extract the both folders to this directory(OpenAlpr), as follows, C:\Users\user\Downloads\OpenAlpr\
+-Make a directory named OpenAlpr and extract the both folders to this directory(OpenAlpr), as follows, C:\Users\user\Downloads\OpenAlpr
 
--Inside the directory OpenAlpr navigate to the python binding folder as follows, C:\Users\user\Downloads\OpenAlpr\openalpr-master\src\bindings\python. \
+-Inside the directory OpenAlpr navigate to the python binding folder as follows, C:\Users\user\Downloads\OpenAlpr\openalpr-master\src\bindings\python. 
 
 -Then open the terminal or console inside this directory (C:\Users\user\Downloads\OpenAlpr\openalpr-master\src\bindings\python) and run the following command, 
 
